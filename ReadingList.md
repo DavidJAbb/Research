@@ -14,7 +14,7 @@ Reading materials for the H&F Tech Club. Covers digital policy and practice - ma
 * and finally - local authority open data in practice - the Bath:Hacked [blog post](https://www.bathhacked.org/breathe-hack-day/breathe-data-dive/) and [slides](https://www.slideshare.net/secret/nZhojxpreNl4JX)
 
 #### Further reading
-This is [Paul Maltby's](https://twitter.com/maltbyps) extensive [digital policy reading list](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.md)
+[Paul Maltby's](https://twitter.com/maltbyps) extensive [digital policy reading list](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.md) has a load of links to great articles covering digital policy, gov digital, design, leadership, data and more - well worth bookmarking and dipping in to.
 
 
-Maintained by David Abbott - [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
+Maintained by [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
