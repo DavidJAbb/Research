@@ -31,18 +31,18 @@ Reading materials for the H&F Tech Club. Covers digital policy and practice - ma
 * [DWP Digital - Designing letters as part of the user journey](https://dwpdigital.blog.gov.uk/2019/01/28/designing-letters-as-part-of-the-whole-user-journey/)
 
 #### Twitter follows
-@LDgovUK
-@GDSacademy
-@LindaSasta
-@BforBen
-@egle_a_ieva
-@DWPDigital
-@neillyneil
-@mcaino
-@ayymanduh
+* [@LDgovUK](https://twitter.com/ldgovuk)
+* [@GDSacademy](https://twitter.com/GDSacademy)
+* [@LindaSasta](https://twitter.com/LindaSasta)
+* [@BforBen](https://twitter.com/BforBen)
+* [@egle_a_ieva](https://twitter.com/egle_a_ieva)
+* [@DWPDigital](https://twitter.com/DWPDigital)
+* [@neillyneil](https://twitter.com/neillyneil)
+* [@mcaino](https://twitter.com/mcaino)
+* [@ayymanduh](https://twitter.com/ayymanduh)
 
- - and hashtags to check in on...
-#LocalDigital
-#FixThePlumbing
+and hashtags to check in on...
+* [#LocalDigital](https://twitter.com/hashtag/LocalDigital)
+* [#FixThePlumbing](https://twitter.com/hashtag/FixThePlumbing)
 
 - Maintained by [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
