@@ -45,4 +45,5 @@ and hashtags to check in on...
 * [#LocalDigital](https://twitter.com/hashtag/LocalDigital)
 * [#FixThePlumbing](https://twitter.com/hashtag/FixThePlumbing)
 
-- Maintained by [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
+\
+Maintained by [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
