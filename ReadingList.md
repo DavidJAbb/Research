@@ -2,6 +2,7 @@
 
 Reading materials for the H&F Tech Club. Covers digital policy and practice - mainly focused on the public sector.
 
+
 ## H&F Tech Club
 
 ### Meeting 1 - 11 February 2019
@@ -17,4 +18,31 @@ Reading materials for the H&F Tech Club. Covers digital policy and practice - ma
 [Paul Maltby's](https://twitter.com/maltbyps) extensive [digital policy reading list](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.md) has a load of links to great articles covering digital policy, gov digital, design, leadership, data and more - well worth bookmarking and dipping in to.
 
 
-Maintained by [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
+## Learning to code - tutorials and tips
+
+### Python
+* [Automate the boring stuff](https://automatetheboringstuff.com) - this is a great intro to Python - full of practical problem solving code. 
+
+
+## Gov Digital Stuff
+
+* [DFE Digital blog](https://dfedigital.blog.gov.uk)
+* [DFE Digital - What they did in 2018](https://dfedigital.blog.gov.uk/2018/12/19/what-dfe-digital-did-in-2018/)
+* [DWP Digital - Designing letters as part of the user journey](https://dwpdigital.blog.gov.uk/2019/01/28/designing-letters-as-part-of-the-whole-user-journey/)
+
+#### Twitter follows
+@LDgovUK
+@GDSacademy
+@LindaSasta
+@BforBen
+@egle_a_ieva
+@DWPDigital
+@neillyneil
+@mcaino
+@ayymanduh
+
+ - and hashtags to check in on...
+#LocalDigital
+#FixThePlumbing
+
+- Maintained by [DavidJAbb](https://github.com/DavidJAbb) - last update: 19 Feb 2019
